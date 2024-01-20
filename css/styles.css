@@ -69,6 +69,7 @@ ol {
 }
 .hero-title {
   color: #fff;
+  text-align: center;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -93,6 +94,7 @@ ol {
 
 .benefits {
 }
+/*  
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -105,7 +107,7 @@ ol {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-}
+}*/
 .benefits-list {
 }
 .benefits-list-item {
@@ -130,6 +132,7 @@ ol {
 }
 .team-title {
   color: #2e2f42;
+  text-align: center;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -162,6 +165,7 @@ ol {
 }
 .portfolio-title {
   color: #2e2f42;
+  text-align: center;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
